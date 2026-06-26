@@ -1,0 +1,10 @@
+1.
+System Users
+There are two major categories of system users: Users (students or customers) and Administrators (staff members).
+The interaction of Users with the system is based on account creation, account login, joining queue, checking one’s position in the queue, waiting time estimation, notification and queue history. It is done in order to facilitate time planning of the users.
+The role of Administrators in the system is to configure and manage the provided services. It includes creating services, setting service duration and its priority, monitoring queues, updating queue status and getting historical queue information. These features allow improving queues management and users’ experience.
+Features of the System
+The aim of the system is to provide convenient queue management for both users and administrators. The features of the system include user registration and login, service management, queue management, waiting time estimation, notifications and queue history.
+The features for users are account creation, queues joining/leaving, position and waiting time check; the feature for administrators is services management; notifications and queue history are used to improve user experience.
+
+
