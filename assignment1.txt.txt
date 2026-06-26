@@ -6,5 +6,11 @@ The role of Administrators in the system is to configure and manage the provided
 Features of the System
 The aim of the system is to provide convenient queue management for both users and administrators. The features of the system include user registration and login, service management, queue management, waiting time estimation, notifications and queue history.
 The features for users are account creation, queues joining/leaving, position and waiting time check; the feature for administrators is services management; notifications and queue history are used to improve user experience.
+Challenges Expected
+The first major challenge is creating wait-time estimates that are accurate. There can be large differences in the actual duration of services provided from one customer to another, which complicates this task. In the first version of the application, estimates will be created using the average service duration, with the possibility of implementing other ways of predicting added later.
+A second challenge is delivering notifications effectively and at the right time. The system also needs to keep the queue order consistent when users enter or exit the queue, and when administrators prioritize certain requests. As the number of users grows, the application should continue to function responsively and accurately provide information about the queue.
+In general, the design tries to focus on modularity and scalability, making it possible for better future tasks. 
+
+
 
 
