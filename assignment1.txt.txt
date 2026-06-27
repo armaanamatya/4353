@@ -13,4 +13,9 @@ In general, the design tries to focus on modularity and scalability, making it p
 
 
 
+2. Development Methodology
+We plan on using the Agile Scrum methodology in developing our software during the semester. The QueueSmart application is designed in multiple assignments where every assignment will have something specific to be done concerning software engineering. This may include designing the system, designing the user interface, designing an API, designing a database and implementing the software. The use of the Agile methodology fits in our case as it allows for continuous improvement.
+Every assignment can be thought of as a sprint, where we continue building upon what was done in previous assignments. During each sprint we will define our objectives, distribute work among team members, analyze progress and improve design based on the feedback of our instructor. This will allow us to find problems early and to solve them before moving to implementation phase.
+Another advantage of using Scrum is that it facilitates the communication among team members. We can divide our work among various tasks, track our progress in daily meetings and allocate work depending on the individual strengths of each member.
+This methodology gives us a strong foundation for the future, helping us make each deliverable extend the previous one and produce a maintainable and scalable QueueSmart application.
 
